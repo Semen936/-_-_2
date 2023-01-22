@@ -1,0 +1,15 @@
+C:\Users\Semen\OneDrive\Рабочий стол\ДЗ_знак_я_п_семинар2\task_13\bin\Debug\net7.0\task_13.exe
+C:\Users\Semen\OneDrive\Рабочий стол\ДЗ_знак_я_п_семинар2\task_13\bin\Debug\net7.0\task_13.deps.json
+C:\Users\Semen\OneDrive\Рабочий стол\ДЗ_знак_я_п_семинар2\task_13\bin\Debug\net7.0\task_13.runtimeconfig.json
+C:\Users\Semen\OneDrive\Рабочий стол\ДЗ_знак_я_п_семинар2\task_13\bin\Debug\net7.0\task_13.dll
+C:\Users\Semen\OneDrive\Рабочий стол\ДЗ_знак_я_п_семинар2\task_13\bin\Debug\net7.0\task_13.pdb
+C:\Users\Semen\OneDrive\Рабочий стол\ДЗ_знак_я_п_семинар2\task_13\obj\Debug\net7.0\task_13.csproj.AssemblyReference.cache
+C:\Users\Semen\OneDrive\Рабочий стол\ДЗ_знак_я_п_семинар2\task_13\obj\Debug\net7.0\task_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Semen\OneDrive\Рабочий стол\ДЗ_знак_я_п_семинар2\task_13\obj\Debug\net7.0\task_13.AssemblyInfoInputs.cache
+C:\Users\Semen\OneDrive\Рабочий стол\ДЗ_знак_я_п_семинар2\task_13\obj\Debug\net7.0\task_13.AssemblyInfo.cs
+C:\Users\Semen\OneDrive\Рабочий стол\ДЗ_знак_я_п_семинар2\task_13\obj\Debug\net7.0\task_13.csproj.CoreCompileInputs.cache
+C:\Users\Semen\OneDrive\Рабочий стол\ДЗ_знак_я_п_семинар2\task_13\obj\Debug\net7.0\task_13.dll
+C:\Users\Semen\OneDrive\Рабочий стол\ДЗ_знак_я_п_семинар2\task_13\obj\Debug\net7.0\refint\task_13.dll
+C:\Users\Semen\OneDrive\Рабочий стол\ДЗ_знак_я_п_семинар2\task_13\obj\Debug\net7.0\task_13.pdb
+C:\Users\Semen\OneDrive\Рабочий стол\ДЗ_знак_я_п_семинар2\task_13\obj\Debug\net7.0\task_13.genruntimeconfig.cache
+C:\Users\Semen\OneDrive\Рабочий стол\ДЗ_знак_я_п_семинар2\task_13\obj\Debug\net7.0\ref\task_13.dll

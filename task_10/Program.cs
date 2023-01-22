@@ -1,27 +1,37 @@
-﻿// Задача 15: Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
-// 6 -> да
-// 7 -> да
-// 1 -> нет 
+﻿/* Задача 10: Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа.
 
-
-
-
+456 -> 5
+782 -> 8
+918 -> 1
+*/
 
 internal class Program
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("Введите первое число");
-        string numbersStr1 = Console.ReadLine();
-        int numbers = Convert.ToInt32(numbersStr1);
+        int number = ReadInt("Введите трехзначное число: ");
+        int amount = number.ToString().Length;
 
-        if (!(numbers != 7 && numbers != 6))
+        if (amount < 3 || amount > 3)
         {
-            Console.WriteLine("Выходной");
+            Console.WriteLine("Вы ввели не трехзначное число");
         }
         else
         {
-            Console.WriteLine("на работу");
+            Console.WriteLine(InCenter(number));
+        }
+
+        int ReadInt(string message)
+        {
+            Console.Write(message);
+            return Convert.ToInt32(Console.ReadLine());
+        }
+
+        int InCenter(int a)
+        {
+
+            int result = a / 10 % 10;
+            return result;
         }
     }
 }
